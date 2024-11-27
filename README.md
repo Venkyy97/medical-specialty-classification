@@ -68,7 +68,6 @@ python src/main.py
 MIT License
 
 ## Author
-[Your Name]
+Venkateshwar Balakrishnan
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33258223/b40a3b95-3c11-4fdf-9da2-b8e6981531ef/paste.txt
+
